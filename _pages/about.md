@@ -35,7 +35,7 @@ Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology]
   College of Computer Science and Technology, Jilin University
 * Joint Training Ph.D. in Computer Architecture, 2023-2024  
   Advisors: [Prof. Xiaohui Wei][1],[Assco. Prof. Joey Tianyi Zhou][4]  
-  Centre For Frontier AI Rsearch (CFAR), Agency for Science, Technology and Research(A\*STAR), Singapore
+  Centre For Frontier AI Research (CFAR), Agency for Science, Technology and Research(A\*STAR), Singapore
 
 ## Experience
 - Research Intern, *Apr. 2023* - *Dec. 2024*  
