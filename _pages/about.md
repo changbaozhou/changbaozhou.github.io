@@ -11,9 +11,9 @@ redirect_from:
 Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology][2], [Jilin University][3]. His research interests include Computer Architecture and Machine Learning Robustness.
 
 ## News  
-**Aug. 2026**: *Revisiting the Adversarial Robustness of Large Vision-Language Models: A Sentiment Perspective* is accepted by IEEE Transactions on Multimedia (TMM).
-**Jan. 2026**: *PromptGuard: Safeguarding Large Vision-Language Models via Adversarial Prompt Tuning* is accepted by Knowledge-Based Systems (KBS).
-**Oct. 2024**: *SAR: Sharpness-Aware minimization for enhancing DNNs’ Robustness against bit-flip errors* is accepted by Journal of Systems Architecture (JSA).
+* **Aug. 2026**: *Revisiting the Adversarial Robustness of Large Vision-Language Models: A Sentiment Perspective* is accepted by IEEE Transactions on Multimedia (TMM).
+* **Jan. 2026**: *PromptGuard: Safeguarding Large Vision-Language Models via Adversarial Prompt Tuning* is accepted by Knowledge-Based Systems (KBS).
+* **Oct. 2024**: *SAR: Sharpness-Aware minimization for enhancing DNNs’ Robustness against bit-flip errors* is accepted by Journal of Systems Architecture (JSA).
 
 ## Selected Publications
 * **Changbao Zhou**, Hengshan Yue, Ming Yan, Xiaohui Wei. PromptGuard: Safeguarding Large Vision-Language Models via Adversarial Prompt Tuning. **Knowledge-Based Systems** 338 (2026): 115498.
@@ -25,9 +25,6 @@ Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology]
 
 
 ## Education
-* Joint Training Ph.D. in Computer Architecture, 2023-2024  
-  Advisors: [Prof. Xiaohui Wei][1],[Assco. Prof. Joey Tianyi Zhou][4]  
-  Centre For Frontier AI Rsearch (CFAR), Agency for Science, Technology and Research(A\*STAR), Singapore
 * Ph.D. in Computer Architecture, 2021-2026  
   Advisors: [Prof. Xiaohui Wei][1]  
   College of Computer Science and Technology, Jilin University 
@@ -35,17 +32,20 @@ Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology]
   Advisors: [Prof. Xiaohui Wei][1]  
   College of Computer Science and Technology, Jilin University  
 * B.S. in Computer Science and Technology, 2014-2018  
-  College of Computer Science and Technology, Jilin University  
+  College of Computer Science and Technology, Jilin University
+* Joint Training Ph.D. in Computer Architecture, 2023-2024  
+  Advisors: [Prof. Xiaohui Wei][1],[Assco. Prof. Joey Tianyi Zhou][4]  
+  Centre For Frontier AI Rsearch (CFAR), Agency for Science, Technology and Research(A\*STAR), Singapore
 
 ## Experience
 - Research Intern, *Apr. 2023* - *Dec. 2024*  
-  Centre For Frontier AI Rsearch (CFAR), Agency for Science, Technology and Research(A\*STAR), Singapore
+  Centre For Frontier AI Research (CFAR), Agency for Science, Technology and Research(A\*STAR), Singapore
 - Research Intern, *Jul. 2021* - *Aug. 2021*  
   Data Center, China Automotive Technology and Research Center Co. Ltd
 
 ## Contact
 * Email: zhoucb21@mails.jlu.edu.cn
-* Address: No.2699, Qianjin street, ChangChun City, Jilin Province, China
+* Address: No.2699, Qianjin Street, ChangChun City, Jilin Province, China
 
   [1]:http://ccst.jlu.edu.cn/info/1192/9490.htm
   [2]:http://ccst.jlu.edu.cn/
